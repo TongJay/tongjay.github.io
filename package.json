@@ -1,0 +1,26 @@
+{
+  "name": "tongjay.github.io",
+  "version": "1.0.0",
+  "description": "my blog",
+  "main": "index.js",
+  "scripts": {
+    "init": "npx docsify init .",
+    "serve": "npx docsify serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TongJay/tongjay.github.io.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Ree TonyJay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TongJay/tongjay.github.io/issues"
+  },
+  "homepage": "https://github.com/TongJay/tongjay.github.io#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
