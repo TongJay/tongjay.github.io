@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "init": "npx docsify init .",
-    "serve": "npx docsify serve ."
+    "serve": "npx docsify serve . --open"
   },
   "repository": {
     "type": "git",
